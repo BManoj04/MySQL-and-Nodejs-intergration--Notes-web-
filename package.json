@@ -1,0 +1,19 @@
+{
+  "name": "dbms-mini-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "ejs-mate": "^4.0.0",
+    "mysql": "github:felixge/node-mysql",
+    "nodemon": "^2.0.22",
+    "path": "^0.12.7"
+  }
+}

@@ -1,0 +1,15 @@
+body{
+    height: 500px;
+}
+.frame{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input-group{
+    padding-top: 300px;
+    padding-bottom: 40px;
+}
+.alert{
+    width: 100%;
+}
